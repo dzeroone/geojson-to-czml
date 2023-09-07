@@ -77,6 +77,7 @@ const convertPolygon = (polygon, id, feature, czml) => {
         cartographicDegrees: []
       },
       height: 0,
+      extrudedHeight: 500.0,
       material: {
         solidColor: {
           color: {

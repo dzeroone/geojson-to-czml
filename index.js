@@ -10,18 +10,18 @@ fs.mkdirSync(outputDir, { recursive: true})
 const options = {
   polygon: {
     fillColor: [
-      255,
-      234,
+      99,
       175,
-      125
+      255,
+      180
     ],
     outline: {
       width: 1,
       color: [
-        0,
-        255,
-        0,
-        100
+        29,
+        113,
+        201,
+        255
       ]
     }
   }
